@@ -1,5 +1,9 @@
 <!-- Rasha Fathima — GitHub Profile README -->
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Rasha Fathima - Building the future, one commit at a time"/>
+</p>
+
 <h1 align="center">Hi, I'm Rasha Fathima 👋</h1>
 
 <p align="center">
@@ -77,6 +81,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashafathima786&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashafathima786&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rashafathima786&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Languages
 
 English · Malayalam · Kannada
@@ -84,7 +101,5 @@ English · Malayalam · Kannada
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rashafathima786&theme=tokyonight&hide_border=true"/>
+  ⭐ <i>Dreaming in Python, building with AI</i> ⭐
 </p>
-
-<p align="center">⭐ <i>Dreaming in Python, building with AI</i> ⭐</p>
