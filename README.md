@@ -1,7 +1,7 @@
 <!-- Rasha Fathima — GitHub Profile README -->
 
 <p align="center">
-  <img src="https://media.tenor.com/IF2Jdxzmyn4AAAAi/coding-girl.gif" width="280" alt="Coding Girl"/>
+  <img src="GIF-g.gif" width="280" alt="Coding Girl"/>
 </p>
 
 <h1 align="center">Hi, I'm Rasha Fathima 👋</h1>
