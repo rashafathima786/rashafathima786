@@ -1,7 +1,7 @@
 <!-- Rasha Fathima — GitHub Profile README -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Rasha Fathima - Building the future, one commit at a time"/>
+  <img src="https://media.tenor.com/IF2Jdxzmyn4AAAAi/coding-girl.gif" width="280" alt="Coding Girl"/>
 </p>
 
 <h1 align="center">Hi, I'm Rasha Fathima 👋</h1>
